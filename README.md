@@ -3,7 +3,7 @@
 
 [Lab 2 A*]:https://github.com/2303A51214/AIML-2303A51214/blob/main/Untitled1.ipynb
 [lab 3 ]:https://github.com/2303A51214/AIML-2303A51214/blob/main/Untitled3.ipynb
-[lab 4]:
+[lab 4]:https://github.com/2303A51214/AIML-2303A51214/blob/main/lab4AIML2.ipynb
 [lab 5]:https://github.com/2303A51214/AIML-2303A51214/blob/main/Untitled3.ipynb
 [lab 6]:https://github.com/2303A51214/AIML-2303A51214/blob/main/LAB6AIML.ipynb
 [lab 7]:https://github.com/2303A51214/AIML-2303A51214/blob/main/Lab7.ipynb
